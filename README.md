@@ -19,7 +19,7 @@ Install `transportapi-python` using either:
 
 ## Example Usage
 
-1. Obtain an [API Key](https://developer.transportapi.com/signup).
+* Obtain an [API Key](https://developer.transportapi.com/signup).
 
 See `transportapi_python/transportapi.py` for other parameters.
 
