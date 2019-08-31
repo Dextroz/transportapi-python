@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf8") as readme:
 
 setup(
     name="transportapi-python",
-    version="0.0.7",
+    version="0.0.1",
     author="Dextroz",
     description="Unofficial Python 3.7 API wrapper for the TransportAPI.",
     long_description=long_description,
