@@ -1,4 +1,4 @@
-# transportapi-python
+# transportapi-python 🚆🚌🚲
 Unofficial Python 3.7 API wrapper for the [TransportAPI](https://www.transportapi.com/).
 
 # Dependencies
