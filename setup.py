@@ -6,11 +6,11 @@ with open("README.md", "r", encoding="utf8") as readme:
 setup(
     name="transportapi-python",
     version="0.0.1",
-    author="Dextroz",
+    author="dbrennand",
     description="Unofficial Python 3.7 API wrapper for the TransportAPI.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Dextroz/transportapi-python",
+    url="https://github.com/dbrennand/transportapi-python",
     packages=find_packages(),
     classifiers=[
         "License :: OSI Approved :: MIT License",
